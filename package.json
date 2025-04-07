@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jr-product-card",
+  "name": "jrostagno-product-card",
   "author": "Javier",
   "module": "dist/jr-product-card.esm.js",
   "size-limit": [
